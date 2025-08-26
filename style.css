@@ -1,0 +1,26 @@
+#first-title{
+    color: rgb(234, 32, 32);
+    background-color: rgb(239, 235, 229);
+    border-style: ridge;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p1{
+    font-style: italic;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: rgb(29, 0, 175);
+}
+a:hover{
+    color: rgb(26, 150, 1);
+}
+.important{
+    font-style: normal;
+}
+.s1{
+    background-color: blanchedalmond;
+}
+.box{}
