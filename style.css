@@ -23,4 +23,28 @@ a:hover{
 .s1{
     background-color: blanchedalmond;
 }
-.box{}
+.box{
+    height: 100px;
+    width: 200px;
+    border-style: double;
+    padding: 20px;
+    margin: 10px;
+}
+.p2{
+    color: rgb(15, 15, 160);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-overflow: inherit;
+}
+.conteneur{
+    display: flex ; overflow-x: scroll;
+}
+.item{
+    height: 100px;
+    width: 200px;
+    border-style: double;
+    padding: 20px;
+    margin: 10px;
+}
